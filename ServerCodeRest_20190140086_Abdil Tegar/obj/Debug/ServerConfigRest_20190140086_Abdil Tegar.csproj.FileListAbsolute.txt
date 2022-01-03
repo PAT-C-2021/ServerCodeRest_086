@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\bin\Debug\ServerConfigRest_20190140086_Abdil Tegar.exe.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\bin\Debug\ServerConfigRest_20190140086_Abdil Tegar.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\bin\Debug\ServerConfigRest_20190140086_Abdil Tegar.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\obj\Debug\ServerConfigRest_20190140086_Abdil Tegar.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\obj\Debug\ServerConfigRest_20190140086_Abdil Tegar.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\obj\Debug\ServerConfigRest_20190140086_Abdil Tegar.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServerConfigRest_20190140086_Abdil Tegar\ServerConfigRest_20190140086_Abdil Tegar\obj\Debug\ServerConfigRest_20190140086_Abdil Tegar.pdb
